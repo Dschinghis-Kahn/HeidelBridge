@@ -163,7 +163,7 @@ namespace MQTTManager
                 "name":"Charging Current Limit",
                 "command_topic":"%/control/charging_current_limit",
                 "state_topic":"%/charging_current_limit",
-                "min":6,
+                "min":0,
                 "max":16,
                 "step":1,
                 "unit_of_measurement":"A",
